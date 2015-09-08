@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+  <dict>
+
+    <key>enemyWave</key>
+    <string>第     波</string>
+
+    <key>victory</key>
+    <string>游戏胜利!</string>
+    <key>defeat</key>
+    <string>任务失败!</string>
+    
+    
+    
+    
+    <key>levelName1</key>
+    <string>征途伊始</string>
+
+    <key>levelName2</key>
+    <string>小试牛刀</string>
+
+    <key>levelName3</key>
+    <string>征途伊始</string>
+
+    <key>levelName4</key>
+    <string>小试牛刀</string>
+
+    <key>levelName5</key>
+    <string>征途伊始</string>
+
+    <key>levelName6</key>
+    <string>小试牛刀</string>
+
+    <key>levelName7</key>
+    <string>征途伊始</string>
+
+    <key>levelName8</key>
+    <string>小试牛刀</string>
+
+    <key>levelName9</key>
+    <string>征途伊始</string>
+
+    <key>levelName10</key>
+    <string>小试牛刀</string>
+
+    <key>levelName11</key>
+    <string>征途伊始</string>
+
+    <key>levelName12</key>
+    <string>小试牛刀</string>
+
+    <key>levelName13</key>
+    <string>征途伊始</string>
+
+    <key>levelName14</key>
+    <string>小试牛刀</string>
+
+    <key>levelName15</key>
+    <string>征途伊始</string>
+
+    <key>levelName16</key>
+    <string>小试牛刀</string>
+
+    <key>levelName17</key>
+    <string>小试牛刀</string>
+    
+    
+    
+    
+
+    <key>item1</key>
+    <string>聚能塔由爱因斯坦发明,该塔能够聚集其攻击范围内所有聚能塔(最多5个)的光束(如果这些塔没有进入攻击状态),最终光束伤害呈指数型爆炸增长,瞬间爆炸！</string>
+
+    <key>item2</key>
+    <string>哨戒炮是基础炮塔,攻击单个目标。攻击力最低，当然价钱也最便宜，是游戏初期的不二选择。注意，该炮塔不能移动</string>
+
+    <key>item3</key>
+    <string>冰封夕阳能够在敌人周围制造出寒冰减速场，大幅减缓敌人的速度，为己方争取更多的时间。该炮塔没有攻击力</string>
+
+    <key>item4</key>
+    <string>显形水晶能够探测出敌方隐形敌人，为己方提供视野保障。该塔没有攻击力</string>
+
+    <key>item5</key>
+    <string>散射炮塔会朝四面八方发射子弹，给予敌人全方位打击</string>
+    
+    <key>item6</key>
+    <string>发电厂是游戏中重要设施,每座发电厂增加20单位电力,当电力不足时所有耗电单位都会停止运转,时刻注意你的电量吧</string>
+
+    <key>item7</key>
+    <string>是不是觉得地图太大了,不方便纵观全局?预言圣坛能够开启小地图,让您能及时掌握全局战况,排兵布阵,当然耗电量(60)可不是盖的!</string>
+
+    <key>item8</key>
+    <string>想组建自己的军队？那就修建训练中心吧!训练中心能够训练士兵(最多10个,每个100金币),士兵能够帮助你一起对抗怪物,但是每个士兵都有生存时间,不能永久存在</string>
+
+    <key>item9</key>
+    <string>是不是觉得金币不够用？大本营能够生产采矿者来采集地图中的矿产资源并转化为金币以供使用(框选采矿者再点击矿产，采矿者即可自动采矿)</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <key>towerName1</key>
+    <string>聚能塔</string>
+
+    <key>towerName2</key>
+    <string>哨戒炮</string>
+
+    <key>towerName3</key>
+    <string>冰封夕阳</string>
+
+    <key>towerName4</key>
+    <string>显形水晶</string>
+
+    <key>towerName5</key>
+    <string>散射炮塔</string>
+
+    <key>towerName6</key>
+    <string>发电厂</string>
+    
+    <key>towerName7</key>
+    <string>预言圣坛</string>
+
+    <key>towerName8</key>
+    <string>训练中心</string>
+
+    <key>towerName9</key>
+    <string>大本营</string>
+
+
+
+    <key>heroAbility1</key>
+    <string>
+亚丝娜召唤上苍的眼泪洗礼大地，对全屏范围内的敌人造成持续百分比伤害
+
+魔法消耗: 40  技能冷却: 30秒
+    </string>
+
+    <key>heroAbility2</key>
+    <string>
+亚丝娜在自身周围召唤出一个能量之环,持续15秒.处于环中的友军会得到大幅增益
+
+魔法消耗: 60  技能冷却: 40秒
+    </string>
+
+    <key>heroAbility3</key>
+    <string>
+亚丝娜突破时间的束缚，创造出异次元结界，将所有敌人永久禁锢在原地
+
+魔法消耗: 80  技能冷却: 60秒
+    </string>
+
+    <key>heroAbility4</key>
+    <string>
+亚丝娜收集万物之灵气，在吟唱数秒后化作灵体与附近血量最高的敌人(会被标记)同归于尽
+
+魔法消耗: 100  技能冷却: 无
+    </string>
+
+    <key>heroAbilityName1</key>
+    <string>流星陨落</string>
+    <key>heroAbilityName2</key>
+    <string>星之祝福</string>
+    <key>heroAbilityName3</key>
+    <string>时间结界</string>
+    <key>heroAbilityName4</key>
+    <string>永生之曲</string>
+
+
+
+
+
+
+
+    <key>yeqiWords1</key>
+    <string>愿这星之眼泪洗尽世间一切罪恶</string>
+    <key>yeqiWords2</key>
+    <string>愿上苍的祝福驱散黑暗</string>
+    <key>yeqiWords3</key>
+    <string>上古的时间封印即将开启</string>
+    <key>yeqiWords4</key>
+    <string>    死亡即永生！</string>
+
+
+
+  </dict>
+</plist>

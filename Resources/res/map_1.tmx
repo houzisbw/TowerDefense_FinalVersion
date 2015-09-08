@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map_bg" tilewidth="32" tileheight="32">
+  <image source="map_bg.png" width="256" height="512"/>
+  <tile id="17">
+   <properties>
+    <property name="canBuild" value="0"/>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="canBuild" value="0"/>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="97">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="104">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="106">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="109">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="110">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="111">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="112">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="113">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="114">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="118">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="119">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="120">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="122">
+   <properties>
+    <property name="canWalk" value="0"/>
+   </properties>
+  </tile>
+  <tile id="125">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="126">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+  <tile id="127">
+   <properties>
+    <property name="canWalk" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="129" name="map_object" tilewidth="32" tileheight="32">
+  <image source="map_object.png" width="512" height="512"/>
+ </tileset>
+ <layer name="bg" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztnE1uFDEQhVvcIOIWHCQ72IFEIkFnkIAQCehklczl0y2NRcm4yq/s8k//LJ4iTSbt9udnl6ts5WoYhquO9K2Dd1izEH5fZn1tpLEDRpIegO98n/Vj1p/KWtr82QEjyXtPIL8W/UDbfT/rQyN+5w3w+zjrUyN+lv1oxa+VcviViCnjjvhZx5RQrOidHxJ7JX6WfavRhpV+XdghsXdL/K7BzyQtc/bxwg6JvVvix3HTMFz4vQTYheJBat+sYkWN+XtNfvri+HHj78eDN4l9s4oVpfn5HkT4cTFDelfrvqHPK8UvNnc5flLM2BM/hK/Pz+W6XMw4+MX5ofEW7e+yjqXkGb2sfxp+6F4Z5fd7yMs3/q6IH7JX1s5fa/XCb8kt3l1E84zY3N07P8fqkfDT5Bl75ue4LaxeCL9QnpHKLzVWWMeUEp5z3M4Z7Up/kxsrLGNKKidf1HO+x1L80uNZjYZfiBHl5Mv3nIVf/PEvpZPQX9pvtw7dk89DvDhGlJOv1L0wMmYaado4XeRqaJKeCL+JfB7ixTHK5RQb31gfEN0r2rgj/Lj+0n47fs/k8xAvlJHGFzE+0phpNCnaoPxS1z+OVy4PLR+L+b/oWdGGBb+QEDZav1jw0ZxRjsDzLPiFfIWwsfKLRugZJbr3seAX8lUOG+059qjkh3BBv2e1/ln6SnOOrd0j98hP65/R6N1D3/0864bo1pCf/+yb4d/+7xT4XWr7kn8Qv+Twc36g+1orfnfgO1GltJ9bN8rh5+99/Rp1Tv6+B37T8H8sO/jh3/X3vqE6ztrnb6wOpYmpWj/l8JPyYinH0rbvcuTQ79A6FFp3qslvGvS1CGT90NS4rKWtq6LeDvVTyovRHCuWf3A1Lt/7VvxS6qqIt0udU8TyD67G5XsfWUtKeTa1n7WeG1r/fO/7PLV1zNI15lLnc1b5A7KWIIyta8w564LV+mHl/ZT1OrfG3MO60uqOjMXYoOsK91wt79AdqDXwy/H8NIR9ytXcOU9zd6As196xA6YhxiGfcjV3ztNcndlq7a19f0BTtwz5lKsbc54ufX5Rex3IrVv2phb8UupGufX2rSiV39Z824Jfy3uaKf05+PXHrzbbg58NP8u6R0t+reZvSt0D7U/pO95obakkv5S6B1Lbr3XHG6ktSWOZyt3prUIul3EcJZYla0ba9SU2lhJ3S34+R5+lO2P17xNb1qKlu4lSbSpFrhYvjVUKP44l5VeqFi3dTZwMx4qeRUpjlcuPivLjGOfqHBlLq7GiZ5HSWNXgV1NWY0XPIqWxyn1feq/udOFH79PdNmSZK4mfY2jlOU4tvZgrF39LtnHwO/gd/NbLL7bfegCe0fL/wSI5dUl+sf3WEzjOLf4fLJpTl+QX229J+92a82TLssol96qDX57WPH9bx7haca6UWse3WnHu0KEt6hUq7oi+
+  </data>
+ </layer>
+ <layer name="object" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztnLluFzEQh9kS6DgUhVQIIXF1wIqrQULh7KiACgokoIIOeJsIQc8VXiUFog4IngE7xMowmrFnfKy9xydZmz0989vxuf6n7/btsL67tfS7fz822yee83j/gdk+NOmRcN8HzLtFeqQLpdVLs31F6ObO4/1nZvvcpBfCfcvTbi9BcN6t6Wl97oEO2F7uHt/+a7P/xqS3Jp3owvsWTj+MxL6hcf5DHVa6/xPF9QH9wHVFK0C7YNlYQVo6pJqd7HT7IXCMc9wYWGdoFywbnH5ToITGMA77TlZ+S3BkRO8KagbbEWlZKYGLjVbrOwjVjjq7qXpuyPai5jvU0meKvaOFfL7QsJZWt/WO1m3IeLPsb1gnDt94TEOO2FsNPONDYioBbkNy4LSM0fSX51wp/c4l+O0rt6nlN3d9+NWkTSJ9QVsqffM891oGO3P1FzjN/jB/1wL2oe8l+t4z7ceCjCG0C8XfTWTDhknvUNooZNsUmbN+VH9XW/99NOkTSp8z2JaTlseYMX2KmnNXpTmI8gqNNXL0KWIY+h1YfONTp9MaugaONQ4T96f2KaZCaEw2BUL1YOr8h29MNiaocmKh6kGpz6584voMvhPct5sjXH3vyudqx89n1+J+t5eofQ7c1mmhtHI6cWsOLFgzHNcpekKfUv0LPQe3dQ6p/VSdz81Ph/Z955z9Ej2gTyE/qPNUHpROpxT2c1BrJLR9RY0m2A/sP64/Q7ZQ53EelwLPiFkn4uwOrZHQxgvG944t0P8a/VlLzDoRaYxhbUJ6TIHW1i3lpvS3rhbXLS1Mi1a/M7dq1wKNZO56eaf/OE/oUHPuP/a9tDRHEJr7p3xc4rFduHmvhYUhoca90npvmU/1zwmEKPmtr/Y8LSRmnAzn8XLNbWqw72botZ4c0nEynHOB83jcPGeKrr57W9ENksumdUJjiLTcuXt91w8V+y3VFU5f6n1p58Bx7Dsk3000muRa71waV4+ExgUhH9YCZcAS27ZNYc1kDh9yxGVNao89c8flHJj694zSwH5arT6QL98W1t/W+vaZgxL6zWncPIb1y7mh6tScbXjJOtv+Pus9SqV+88ZBjX25NjxGi5LfoFvQT0Nr3+Op38b5fvPWCmPpo7cKLN+p//shZl1fTaT2HPdcdyDCJ5yv60dK1/XV1BF+SwvZG1pjaDkGruG0xMel40quf64Zl/q0zjXukLzPi0otJcetrjBJ0Vzrm2OMzcsXD1tx2ezwXXm91RUmzX0WqnxwdY20bHB5hY45ttG+Rs/fimstkvqB46fyem3ZSAFqhvVMwcanry2qDY6VQ4ytp83xMyadReddHZeiGbUeyh2Txqcm5iXX3kI2cfdI/b5snnfFpKuCWMB5a6C0lOD8kGjD+ez7n2epZeq2efYdk+4SeaS0HxirH6WhtJ2h/PyRYA8XCynPxECbJVpCLbjvGPi4tp0ZK5I4n4sWUnLGMkbbP2wRjT4560ILjtVYPSVjIYzP79x+OmD5xTZrfOf6yU7P3N9KtHqE6inp8zTrdHPWexL9OB+o45QeWyA5pHGccwyRAmev5FsT54O0v7ANkpRS5bo2KeMH6l7t88auq3R8Ii3b8JikfW2lPEvhyn3Ij7H5OWf+AgGbCGo=
+  </data>
+ </layer>
+ <objectgroup name="enemyWay">
+  <object name="0" x="23" y="2458" width="15" height="15"/>
+  <object name="1" x="1068" y="2452" width="24" height="20"/>
+  <object name="2" x="1077" y="2264" width="21" height="17"/>
+  <object name="3" x="2303" y="2272"/>
+  <object name="4" x="2301" y="1665"/>
+  <object name="5" x="2082" y="1668"/>
+  <object name="6" x="2078" y="1915"/>
+  <object name="7" x="1859" y="1916"/>
+  <object name="8" x="1852" y="1599"/>
+  <object name="9" x="1635" y="1604"/>
+  <object name="10" x="1626" y="1884"/>
+  <object name="11" x="740" y="1886"/>
+  <object name="12" x="729" y="1567"/>
+  <object name="13" x="159" y="1565"/>
+  <object name="14" x="157" y="1222"/>
+  <object name="15" x="156" y="1090"/>
+  <object name="16" x="384" y="1090"/>
+  <object name="17" x="388" y="1242"/>
+  <object name="18" x="674" y="1240"/>
+  <object name="19" x="670" y="1028"/>
+  <object name="20" x="1024" y="1026"/>
+  <object name="21" x="1024" y="1310"/>
+  <object name="22" x="1402" y="1306"/>
+  <object name="23" x="1414" y="966"/>
+  <object name="24" x="1726" y="966"/>
+  <object name="25" x="1732" y="1398"/>
+  <object name="26" x="2430" y="1402"/>
+  <object name="27" x="2432" y="750"/>
+  <object name="28" x="2428" y="64"/>
+  <object name="29" x="1472" y="62"/>
+  <object name="30" x="1468" y="696"/>
+  <object name="31" x="2272" y="702"/>
+  <object name="32" x="2274" y="224"/>
+  <object name="33" x="1640" y="230"/>
+  <object name="34" x="1638" y="538"/>
+  <object name="35" x="2108" y="540"/>
+  <object name="36" x="2110" y="384"/>
+  <object name="37" x="1252" y="386"/>
+  <object name="38" x="1242" y="764"/>
+  <object name="39" x="836" y="758"/>
+  <object name="40" x="827" y="414"/>
+  <object name="41" x="491" y="414"/>
+  <object name="42" x="486" y="156"/>
+  <object name="43" x="179" y="153"/>
+ </objectgroup>
+</map>
