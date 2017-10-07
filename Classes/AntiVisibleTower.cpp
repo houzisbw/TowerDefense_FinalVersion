@@ -10,8 +10,11 @@ AntiVisibleTower::AntiVisibleTower()
 AntiVisibleTower::~AntiVisibleTower()
 {
 }
+<<<<<<< HEAD
 //注释测试1
 //注释测试2
+=======
+>>>>>>> parent of f93d984... 测试1
 
 bool AntiVisibleTower::init()
 {
