@@ -11,6 +11,8 @@ AntiVisibleTower::~AntiVisibleTower()
 {
 }
 //注释测试1
+//注释测试2
+
 bool AntiVisibleTower::init()
 {
 	if (!Sprite::init()) //如果忘记了这句话则会在runApplication报错
